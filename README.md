@@ -9,7 +9,7 @@ Display the arduino state in your status line. Following is the info displayed i
 
 ## Screenshot
 
-![Screenshot](./screenshot.jpg)
+![screenshot](https://github.com/PrajvalBadiger/lualine-arduino-status/assets/47316750/4fc0e72d-c385-43dc-a7e7-d674a796ce01)
 
 ## Requirements
 
