@@ -7,6 +7,10 @@ Display the arduino state in your status line. Following is the info displayed i
 - **g:arduino_serial_baud** - the baud rate that will be used for Serial commands
 - **arduino#GetPort()** - returns the port that will be used for communication
 
+## Screenshot
+
+![Screenshot](./screenshot.jpg)
+
 ## Requirements
 
 - [lualine.nvim](https://github.com/nvim-lualine/lualine.nvim)
